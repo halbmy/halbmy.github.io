@@ -1,4 +1,4 @@
-# Thomas Günther (halbmy)
+github page of @halbmy
 
 ## Who am I?
 I am a senior researcher at the LIAG Institute for Applied Geophysics in the field of electromagnetics (EM) from DC/IP to inductive EM.
